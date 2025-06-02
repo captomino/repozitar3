@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 Skript se spouští z příkazové řádky se dvěma argumenty:
 
-python main.py "https://www.volby.cz/pls/ps2017nss/..." "vysledky.csv"
+py main.py "https://www.volby.cz/pls/ps2017nss/..." "vysledky.csv"
 
 Argumenty:
   1. URL – odkaz na hlavní stránku s přehledem volebních výsledků (musí začínat na https://www.volby.cz/)
